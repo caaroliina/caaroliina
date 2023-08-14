@@ -52,13 +52,13 @@ I seek to expand my capabilities in the world of programming. </h1>
 <h2> Contact me <h2>
 
 <div>
-    <h3> Do not hesitate to contact me! </h2>
+    <p> Do not hesitate to contact me! </p>
     <p align="center">
       
-  <h5> If you are interested in collaborating on projects or just want to chat about web development, don't hesitate to contact me at 
+  <p> If you are interested in collaborating on projects or just want to chat about web development, don't hesitate to contact me at 
        <a href="https://www.linkedin.com/in/andreacarolinagrzn/" target="blank">  Linkedin </a> or through my 
         <a href="mailto:carogrzn97@gmail.com" target="blank"> Mail </a> 
-    </h5>
+    </p>
       
   </p>
 </div>
