@@ -46,11 +46,12 @@ I seek to expand my capabilities in the world of programming. </h1>
     ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
     <br>
 </p>
-
-<h2> Proyectos destacados </h2>
-- [Pokemon Api] (https://github.com/caaroliina/poke-pi)
-- [ChillingTime] (https://pinturas-app-front-git-pre-develop-pf-pinturas.vercel.app/)
 <br>
+<h2> Proyectos destacados </h2> <br>
+- [Pokemon Api] (https://github.com/caaroliina/poke-pi)
+- [ChillingTime] (https://pinturas-app-front-git-pre-develop-pf-pinturas.vercel.app/)<br>
+<br>
+
 
 <h2> Contact me <h2>
 
