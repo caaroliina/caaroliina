@@ -53,7 +53,7 @@ I seek to expand my capabilities in the world of programming. </h1>
 <br>
 
 
-<h2> Contact me <h2>
+<h2> Contact me <h2>  <br>
 
 <p> Do not hesitate to contact me! </p> <br>
 
