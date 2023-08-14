@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center"> Hi! 👋 I'm Carolina Garzón !</h1>
 
-  <h4 align="center"> I'm a passionate full stack developer graduated from Henry, and currently pursuing a degree in Computer Science. I enjoy working in teams, where I can leverage my soft skills to achieve effective results. My focus is on seeking opportunities in both back-end and front-end development roles.
+  <h4 > I'm a passionate full stack developer graduated from Henry, and currently pursuing a degree in Computer Science. I enjoy working in teams, where I can leverage my soft skills to achieve effective results. My focus is on seeking opportunities in both back-end and front-end development roles.
 
 I'm driven by a constant quest for self-improvement in all aspects of my life. I strive to give my best every day, both in the professional and personal realms. I believe in learning and growing through the experiences I face. </h1>
   <br>
@@ -58,9 +58,8 @@ I'm driven by a constant quest for self-improvement in all aspects of my life. I
 
 <p> Do not hesitate to contact me! </p> <br>
 
-<p> If you are interested in collaborating on projects or just want to chat about web development, don't hesitate to contact me at <a href="https://www.linkedin.com/in/andreacarolinagrzn/" target="blank">  Linkedin </a> or through my <a href="mailto:carogrzn97@gmail.com" target="blank"> Mail </a> 
-</p>
-  
+<h4> If you are interested in collaborating on projects or just want to chat about web development, don't hesitate to contact me at <a href="https://www.linkedin.com/in/andreacarolinagrzn/" target="blank">  Linkedin </a> or through my <a href="mailto:carogrzn97@gmail.com" target="blank"> Mail </a> 
+
 <br>
   
 <p> Thank you for visiting my profile! I hope we can meet soon  </p>
