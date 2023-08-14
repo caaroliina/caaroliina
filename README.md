@@ -2,8 +2,9 @@
 <div align="center">
   <h1 align="center"> Hi! 👋 I'm Carolina Garzón !</h1>
 
-  <h4 align="center"> I'm Full Stack Web Developer,  I am 25 years old and I studied programming in Buenos Aires, Arg. 
-I seek to expand my capabilities in the world of programming. </h1>
+  <h4 align="center"> I'm a passionate full stack developer graduated from Henry, and currently pursuing a degree in Computer Science. I enjoy working in teams, where I can leverage my soft skills to achieve effective results. My focus is on seeking opportunities in both back-end and front-end development roles.
+
+I'm driven by a constant quest for self-improvement in all aspects of my life. I strive to give my best every day, both in the professional and personal realms. I believe in learning and growing through the experiences I face. </h1>
   <br>
 </div>
 <div>
