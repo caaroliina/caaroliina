@@ -51,17 +51,14 @@ I seek to expand my capabilities in the world of programming. </h1>
 
 <h2> Contact me <h2>
 
-  <p> Do not hesitate to contact me! </p> <br>
- 
-      
-  <p> If you are interested in collaborating on projects or just want to chat about web development, don't hesitate to contact me at 
-       <a href="https://www.linkedin.com/in/andreacarolinagrzn/" target="blank">  Linkedin </a> or through my 
-        <a href="mailto:carogrzn97@gmail.com" target="blank"> Mail </a> 
-    </p>
+<p> Do not hesitate to contact me! </p> <br>
+
+<p> If you are interested in collaborating on projects or just want to chat about web development, don't hesitate to contact me at <a href="https://www.linkedin.com/in/andreacarolinagrzn/" target="blank">  Linkedin </a> or through my <a href="mailto:carogrzn97@gmail.com" target="blank"> Mail </a> 
+</p>
   
-  <br>
+<br>
   
-<h2> Thank you for visiting my profile! I hope we can meet soon  </h2>
+<p> Thank you for visiting my profile! I hope we can meet soon  </p>
 <!--
 **caaroliina/caaroliina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
