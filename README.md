@@ -47,6 +47,9 @@ I seek to expand my capabilities in the world of programming. </h1>
     <br>
 </p>
 
+<h2> Proyectos destacados </h2>
+- [Pokemon Api] (https://github.com/caaroliina/poke-pi)
+- [ChillingTime] (https://pinturas-app-front-git-pre-develop-pf-pinturas.vercel.app/)
 <br>
 
 <h2> Contact me <h2>
