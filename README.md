@@ -63,7 +63,7 @@ I'm driven by a constant quest for self-improvement in all aspects of my life. I
 <br>
 <br>
   
-<p> Thank you for visiting my profile! I hope we can meet soon  </p>
+<p> Thank you for visiting my profile! I hope we can meet soon 
 <!--
 **caaroliina/caaroliina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
