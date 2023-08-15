@@ -1,5 +1,5 @@
 #
-<div align="center">
+<div>
   <h1 align="center"> Hi! 👋 I'm Carolina Garzón !</h1>
 
   <h4 > I'm a passionate full stack developer graduated from Henry, and currently pursuing a degree in Computer Science. I enjoy working in teams, where I can leverage my soft skills to achieve effective results. My focus is on seeking opportunities in both back-end and front-end development roles.
