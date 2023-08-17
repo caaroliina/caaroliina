@@ -58,7 +58,6 @@ I'm driven by a constant quest for self-improvement in all aspects of my life. I
 
 <h4> If you are interested in collaborating on projects or just want to chat about web development, don't hesitate to contact me at <a href="https://www.linkedin.com/in/andreacarolinagrzn/" target="blank">  Linkedin </a> or through my <a href="mailto:carogrzn97@gmail.com" target="blank"> Mail </a> 
 <br>
-<br>
   
 <p> Thank you for visiting my profile! I hope we can meet soon 
 <!--
